@@ -1,0 +1,107 @@
+dn: uid=testuser1,ou=users,dc=aws,dc=com
+cn: Test User 1
+givenName: Test
+sn: User 1
+uid: testuser1
+uidNumber: 5002
+gidNumber: 10000
+homeDirectory: /home/testuser1
+mail: testuser1@aws.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+loginShell: /bin/bash
+userPassword: {SHA}/MU3iBzR1bzdq/SPqICcdHEXbeA=
+
+dn: uid=testuser2,ou=users,dc=aws,dc=com
+cn: Test User 2
+givenName: Test 
+sn: User 2
+uid: testuser2
+uidNumber: 5003
+gidNumber: 10000
+homeDirectory: /home/testuser2
+mail: testuser2@aws.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+loginShell: /bin/bash
+userPassword: {SHA}/MU3iBzR1bzdq/SPqICcdHEXbeA=
+
+dn: uid=testuser3,ou=users,dc=aws,dc=com
+cn: Test User 3
+givenName: Test 
+sn: User 3
+uid: testuser3
+uidNumber: 5004
+gidNumber: 10000
+homeDirectory: /home/testuser3
+mail: testuser3@aws.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+loginShell: /bin/bash
+userPassword: {SHA}/MU3iBzR1bzdq/SPqICcdHEXbeA=
+
+dn: uid=testuser4,ou=users,dc=aws,dc=com
+cn: Test User 4
+givenName: Test 
+sn: User 4
+uid: testuser4
+uidNumber: 5005
+gidNumber: 10000
+homeDirectory: /home/testuser4
+mail: testuser4@aws.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+loginShell: /bin/bash
+userPassword: {SHA}/MU3iBzR1bzdq/SPqICcdHEXbeA=
+
+dn: uid=testuser5,ou=users,dc=aws,dc=com
+cn: Test User 5
+givenName: Test 
+sn: User 5
+uid: testuser5
+uidNumber: 5006
+gidNumber: 10000
+homeDirectory: /home/testuser5
+mail: testuser5@aws.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+loginShell: /bin/bash
+userPassword: {SHA}/MU3iBzR1bzdq/SPqICcdHEXbeA=
+
+dn: uid=testuser6,ou=users,dc=aws,dc=com
+cn: Test User 6
+givenName: Test 
+sn: User 6
+uid: testuser6
+uidNumber: 5007
+gidNumber: 10000
+homeDirectory: /home/testuser6
+mail: testuser6@aws.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+loginShell: /bin/bash
+userPassword: {SHA}/MU3iBzR1bzdq/SPqICcdHEXbeA=

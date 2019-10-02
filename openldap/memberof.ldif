@@ -1,0 +1,6 @@
+dn: olcOverlay={0}memberof,olcDatabase={2}hdb,cn=config
+objectClass: olcConfig
+objectClass: olcMemberof
+objectClass: olcOverlayConfig
+objectClass: top
+olcOverlay: memberof

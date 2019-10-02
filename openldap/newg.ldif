@@ -1,0 +1,5 @@
+dn: cn=cas,ou=groups,dc=aws,dc=com
+objectClass: groupofnames
+cn: cas
+description: CAS Grooup
+member: uid=cas,ou=users,dc=aws,dc=com

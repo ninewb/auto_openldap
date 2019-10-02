@@ -1,0 +1,55 @@
+dn: cn=sas,ou=groups,dc=aws,dc=com
+objectClass: posixGroup
+objectClass: top
+cn: sas
+userPassword: Harmony!
+gidNumber: 7001
+memberUid: cas
+memberUid: sasdemo
+memberUid: viadm
+memberUid: videmo1
+memberUid: videmo2
+memberUid: videmo3
+
+dn: cn=sasdemo,ou=groups,dc=aws,dc=com
+objectClass: posixGroup
+objectClass: top
+cn: sasdemo
+userPassword: Harmony!
+gidNumber: 7002
+
+dn: cn=cas,ou=groups,dc=aws,dc=com
+objectClass: posixGroup
+objectClass: top
+cn: cas
+userPassword: Harmony!
+gidNumber: 7003
+
+dn: cn=viadm,ou=groups,dc=aws,dc=com
+objectClass: posixGroup
+objectClass: top
+cn: viadm
+userPassword: Harmony!
+gidNumber: 7004
+
+dn: cn=videmo1,ou=groups,dc=aws,dc=com
+objectClass: posixGroup
+objectClass: top
+cn: videmo1
+userPassword: Harmony!
+gidNumber: 7005
+
+dn: cn=videmo2,ou=groups,dc=aws,dc=com
+objectClass: posixGroup
+objectClass: top
+cn: videmo2
+userPassword: Harmony!
+gidNumber: 7006
+
+dn: cn=videmo3,ou=groups,dc=aws,dc=com
+objectClass: posixGroup
+objectClass: top
+cn: videmo3
+userPassword: Harmony!
+gidNumber: 7007
+

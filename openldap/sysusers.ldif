@@ -1,0 +1,35 @@
+dn: uid=sas,ou=users,dc=aws,dc=com
+cn: SAS User
+givenName: SAS
+sn: User
+uid: sas
+uidNumber: 5000
+gidNumber: 10000
+homeDirectory: /home/sas
+mail: sas@aws.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+loginShell: /bin/bash
+userPassword: {SHA}/MU3iBzR1bzdq/SPqICcdHEXbeA=
+
+dn: uid=cas,ou=users,dc=aws,dc=com
+cn: CAS User
+givenName: CAS 
+sn: User
+uid: cas
+uidNumber: 5001
+gidNumber: 10000
+homeDirectory: /home/cas
+mail: cas@aws.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+loginShell: /bin/bash
+userPassword: {SHA}/MU3iBzR1bzdq/SPqICcdHEXbeA=

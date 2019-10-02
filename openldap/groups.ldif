@@ -1,0 +1,75 @@
+dn: cn=sasusers,ou=groups,dc=aws,dc=com
+objectClass: groupofnames
+cn: sasusers
+description: All SAS Users
+member: uid=willwo,ou=users,dc=aws,dc=com
+member: uid=mtlstb,ou=users,dc=aws,dc=com
+member: uid=edweng,ou=users,dc=aws,dc=com
+member: uid=phgrub,ou=users,dc=aws,dc=com
+member: uid=brbart,ou=users,dc=aws,dc=com
+member: uid=brfarl,ou=users,dc=aws,dc=com
+member: uid=purkal,ou=users,dc=aws,dc=com
+member: uid=ninewb,ou=users,dc=aws,dc=com
+member: uid=matsch,ou=users,dc=aws,dc=com
+member: uid=latast,ou=users,dc=aws,dc=com
+member: uid=peferr,ou=users,dc=aws,dc=com
+member: uid=coleak,ou=users,dc=aws,dc=com
+member: uid=krmood,ou=users,dc=aws,dc=com
+member: uid=laolso,ou=users,dc=aws,dc=com
+member: uid=srpare,ou=users,dc=aws,dc=com
+member: uid=rasyed,ou=users,dc=aws,dc=com
+member: uid=kewell,ou=users,dc=aws,dc=com
+member: uid=chmcma,ou=users,dc=aws,dc=com
+member: uid=sas,ou=users,dc=aws,dc=com
+member: uid=cas,ou=users,dc=aws,dc=com
+
+dn: cn=ghuspsaml,ou=groups,dc=aws,dc=com
+objectClass: groupofnames
+cn: ghuspsaml
+description: GHUSPS AML Group
+member: uid=willwo,ou=users,dc=aws,dc=com
+member: uid=mtlstb,ou=users,dc=aws,dc=com
+member: uid=edweng,ou=users,dc=aws,dc=com
+member: uid=phgrub,ou=users,dc=aws,dc=com
+member: uid=brbart,ou=users,dc=aws,dc=com
+member: uid=brfarl,ou=users,dc=aws,dc=com
+member: uid=purkal,ou=users,dc=aws,dc=com
+member: uid=ninewb,ou=users,dc=aws,dc=com
+member: uid=matsch,ou=users,dc=aws,dc=com
+member: uid=latast,ou=users,dc=aws,dc=com
+member: uid=peferr,ou=users,dc=aws,dc=com
+member: uid=coleak,ou=users,dc=aws,dc=com
+member: uid=krmood,ou=users,dc=aws,dc=com
+member: uid=laolso,ou=users,dc=aws,dc=com
+member: uid=srpare,ou=users,dc=aws,dc=com
+member: uid=rasyed,ou=users,dc=aws,dc=com
+member: uid=kewell,ou=users,dc=aws,dc=com
+member: uid=chmcma,ou=users,dc=aws,dc=com
+
+#dn: cn=extusers,ou=groups,dc=aws,dc=com
+#objectClass: groupofnames
+#cn: extusers
+#description: External Users
+
+dn: cn=testusers,ou=groups,dc=aws,dc=com
+objectClass: groupofnames
+cn: testusers
+description: Test  Users
+member: uid=testuser1,ou=users,dc=aws,dc=com
+member: uid=testuser2,ou=users,dc=aws,dc=com
+member: uid=testuser3,ou=users,dc=aws,dc=com
+member: uid=testuser4,ou=users,dc=aws,dc=com
+member: uid=testuser5,ou=users,dc=aws,dc=com
+member: uid=testuser6,ou=users,dc=aws,dc=com
+
+dn: cn=sas,ou=groups,dc=aws,dc=com
+objectClass: groupofnames
+cn: sas
+description: SAS Group
+member: uid=sas,ou=users,dc=aws,dc=com
+
+dn: cn=cas,ou=groups,dc=aws,dc=com
+objectClass: groupofnames
+cn: cas
+description: CAS Grooup
+member: uid=cas,ou=users,dc=aws,dc=com

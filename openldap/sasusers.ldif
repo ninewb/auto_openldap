@@ -1,0 +1,323 @@
+dn: uid=willwo,ou=users,dc=aws,dc=com
+cn: Scott Wood
+givenName: Scott
+sn: Wood
+uid: willwo
+uidNumber: 6000
+gidNumber: 10000
+homeDirectory: /home/willwo
+mail: scott.wood@sas.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+loginShell: /bin/bash
+userPassword: {SHA}/MU3iBzR1bzdq/SPqICcdHEXbeA=
+
+dn: uid=mtlstb,ou=users,dc=aws,dc=com
+cn: Stuart Brooks
+givenName: Stuart
+sn: Brooks
+uid: mtlstb
+uidNumber: 6001
+gidNumber: 10000
+homeDirectory: /home/mtlstb
+mail: stuart.brooks@sas.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+loginShell: /bin/bash
+userPassword: {SHA}/MU3iBzR1bzdq/SPqICcdHEXbeA=
+
+dn: uid=edweng,ou=users,dc=aws,dc=com
+cn: Ed Eng
+givenName: Ed
+sn: Eng
+uid: edweng
+uidNumber: 6002
+gidNumber: 10000
+homeDirectory: /home/edweng
+mail: ed.eng@sas.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+loginShell: /bin/bash
+userPassword: {SHA}/MU3iBzR1bzdq/SPqICcdHEXbeA=
+
+dn: uid=phgrub,ou=users,dc=aws,dc=com
+cn: Phillip Grubaugh
+givenName: Phillip
+sn: Grubaugh
+uid: phgrub
+uidNumber: 6003
+gidNumber: 10000
+homeDirectory: /home/phgrub
+mail: phillip.grubaugh@sas.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+loginShell: /bin/bash
+userPassword: {SHA}/MU3iBzR1bzdq/SPqICcdHEXbeA=
+
+dn: uid=brbart,ou=users,dc=aws,dc=com
+cn: Breanna Barton
+givenName: Breanna
+sn: Barton
+uid: brbart
+uidNumber: 6004
+gidNumber: 10000
+homeDirectory: /home/brbart
+mail: breanna.barton@sas.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+loginShell: /bin/bash
+userPassword: {SHA}/MU3iBzR1bzdq/SPqICcdHEXbeA=
+
+dn: uid=brfarl,ou=users,dc=aws,dc=com
+cn: Brian Farley
+givenName: Brian
+sn: Farley
+uid: brfarl
+uidNumber: 6005
+gidNumber: 10000
+homeDirectory: /home/brfarl
+mail: brian.farley@sas.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+loginShell: /bin/bash
+userPassword: {SHA}/MU3iBzR1bzdq/SPqICcdHEXbeA=
+
+dn: uid=purkal,ou=users,dc=aws,dc=com
+cn: Purnima Kalahasthi
+givenName: Purnima
+sn: Kalahasthi
+uid: purkal
+uidNumber: 6006
+gidNumber: 10000
+homeDirectory: /home/purkal
+mail: purnima.kalahasthi@sas.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+loginShell: /bin/bash
+userPassword: {SHA}/MU3iBzR1bzdq/SPqICcdHEXbeA=
+
+dn: uid=ninewb,ou=users,dc=aws,dc=com
+cn: Nick Newbill
+givenName: Nick
+sn: Newbill
+uid:ninewb
+uidNumber: 6007
+gidNumber: 10000
+homeDirectory: /home/ninewb
+mail: nick.newbill@sas.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+loginShell: /bin/bash
+userPassword: {SHA}/MU3iBzR1bzdq/SPqICcdHEXbeA=
+
+dn: uid=matsch,ou=users,dc=aws,dc=com
+cn: Matt Schaffer
+givenName: Matt
+sn: Schaffer
+uid: matsch
+uidNumber: 6008
+gidNumber: 10000
+homeDirectory: /home/matsch
+mail: matt.schaffer@sas.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+loginShell: /bin/bash
+userPassword: {SHA}/MU3iBzR1bzdq/SPqICcdHEXbeA=
+
+dn: uid=latast,ou=users,dc=aws,dc=com
+cn: Lance Tastet
+givenName: Lance
+sn: Tastet
+uid: mtlstb
+uidNumber: 6009
+gidNumber: 10000
+homeDirectory: /home/latast
+mail: lance.tastet@sas.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+loginShell: /bin/bash
+userPassword: {SHA}/MU3iBzR1bzdq/SPqICcdHEXbeA=
+
+dn: uid=peferr,ou=users,dc=aws,dc=com
+cn: Pete Ferrera
+givenName: Pete
+sn: Ferrera
+uid: peferr
+uidNumber: 6010
+gidNumber: 10000
+homeDirectory: /home/peferr
+mail: pete.ferrera@sas.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+loginShell: /bin/bash
+userPassword: {SHA}/MU3iBzR1bzdq/SPqICcdHEXbeA=
+
+dn: uid=coleak,ou=users,dc=aws,dc=com
+cn: Council Leak
+givenName: Council
+sn: Leak
+uid: coleak
+uidNumber: 6011
+gidNumber: 10000
+homeDirectory: /home/coleak
+mail: council.leak@sas.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+loginShell: /bin/bash
+userPassword: {SHA}/MU3iBzR1bzdq/SPqICcdHEXbeA=
+
+dn: uid=krmood,ou=users,dc=aws,dc=com
+cn: Kristen Moody
+givenName: Kristen
+sn: Moody
+uid: krmood
+uidNumber: 6012
+gidNumber: 10000
+homeDirectory: /home/krmood
+mail: kristen.moody@sas.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+loginShell: /bin/bash
+userPassword: {SHA}/MU3iBzR1bzdq/SPqICcdHEXbeA=
+
+dn: uid=laolso,ou=users,dc=aws,dc=com
+cn: Lance Olson
+givenName: Lance
+sn: Olson
+uid: laolso
+uidNumber: 6013
+gidNumber: 10000
+homeDirectory: /home/laolso
+mail: lance.olson@sas.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+loginShell: /bin/bash
+userPassword: {SHA}/MU3iBzR1bzdq/SPqICcdHEXbeA=
+
+dn: uid=srpare,ou=users,dc=aws,dc=com
+cn: Sridhar Parapalli
+givenName: Sridhar
+sn: Parapalli
+uid: srpare
+uidNumber: 6014
+gidNumber: 10000
+homeDirectory: /home/srpare
+mail: sridhar.parapalli@sas.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+loginShell: /bin/bash
+userPassword: {SHA}/MU3iBzR1bzdq/SPqICcdHEXbeA=
+
+dn: uid=rasyed,ou=users,dc=aws,dc=com
+cn: Raza Syed
+givenName: Raza
+sn: Syed
+uid: rasyed
+uidNumber: 6015
+gidNumber: 10000
+homeDirectory: /home/rasyed
+mail: raza.syed@sas.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+loginShell: /bin/bash
+userPassword: {SHA}/MU3iBzR1bzdq/SPqICcdHEXbeA=
+
+dn: uid=kewell,ou=users,dc=aws,dc=com
+cn: Kelly Wells
+givenName: Kelly
+sn: Wells
+uid: kewell
+uidNumber: 6016
+gidNumber: 10000
+homeDirectory: /home/kewell
+mail: kelly.wells@sas.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+loginShell: /bin/bash
+userPassword: {SHA}/MU3iBzR1bzdq/SPqICcdHEXbeA=
+
+dn: uid=chmcma,ou=users,dc=aws,dc=com
+cn: Christopher McMahon
+givenName: Chris
+sn: McMahon
+uid: chmcma
+uidNumber: 6017
+gidNumber: 10000
+homeDirectory: /home/chcma
+mail: christopher.mcmahon@sas.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+loginShell: /bin/bash
+userPassword: {SHA}/MU3iBzR1bzdq/SPqICcdHEXbeA=

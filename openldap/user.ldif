@@ -1,0 +1,17 @@
+# cat adam.ldif
+dn: uid=rywend,ou=People,dc=creative,dc=com
+objectClass: top
+objectClass: account
+objectClass: posixAccount
+objectClass: shadowAccount
+cn: rywend
+uid: rywend
+uidNumber: 9001
+gidNumber: 9001
+homeDirectory: /home/rywend
+loginShell: /bin/bash
+gecos: rywend
+userPassword: {crypt}x
+shadowLastChange: 0
+shadowMax: 0
+shadowWarning: 0
